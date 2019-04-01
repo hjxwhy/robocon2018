@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"value1_max"
+			],
+			[
+				"k",
+				"Kturn"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"ri",
+				"rise_num"
+			],
+			[
+				"K",
+				"Kchange"
+			],
+			[
+				"IN4",
+				"IN4_low"
+			],
+			[
+				"IN3",
+				"IN3_high"
+			],
+			[
+				"IN2",
+				"IN2_low"
+			],
+			[
+				"IN1",
+				"IN1_high"
+			],
+			[
+				"ccr",
+				"CCR2"
+			],
+			[
+				"fall_",
+				"fall_edge"
+			],
+			[
+				"fall",
+				"fall_num"
+			],
+			[
+				"CC",
+				" CCR2"
+			],
+			[
+				"CCD",
+				"CCDout"
+			],
+			[
+				"TIM_OC",
+				" TIM_OCMode_PWM1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/dell/Desktop/蓝宙电子第四代魔鬼CCD-STM32 采集例程/实验17  ADC实验/HARDWARE/Landzo_CCD/Landzo_CCD.C",
+		"/C/Users/dell/Desktop/蓝宙电子第四代魔鬼CCD-STM32 采集例程/实验17  ADC实验/USER/main.c",
+		"/C/Users/dell/Desktop/51单片机资料及软件/2.资料及例程/例程/08-AD温度采集数码管显示/main.c",
+		"/C/Users/dell/Desktop/51单片机资料及软件/2.资料及例程/例程/06-独立按键检测（中断）/Key.c",
+		"/C/Users/dell/Desktop/stm32.c",
+		"/D/科创/ROBOCON-2018/发射装置201803101/Project/BH-F103.uvprojx",
+		"/C/Users/dell/Desktop/蓝宙电子第四代魔鬼CCD-STM32 采集例程/实验17  ADC实验/HARDWARE/Landzo_CCD/Landzo_CCD.h",
+		"/C/Users/dell/Desktop/ccd.c",
+		"/C/Users/dell/Desktop/蓝宙电子第四代魔鬼CCD-STM32 采集例程/实验17  ADC实验/CORE/core_cm3.h",
+		"/C/Users/dell/Desktop/蓝宙电子第四代魔鬼CCD-STM32 采集例程/实验17  ADC实验/HARDWARE/ADC/adc.c",
+		"/C/Users/dell/Desktop/蓝宙电子第四代魔鬼CCD-STM32 采集例程/实验17  ADC实验/CORE/core_cm3.c",
+		"/C/Users/dell/Desktop/PWM.C"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BH-F103.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
